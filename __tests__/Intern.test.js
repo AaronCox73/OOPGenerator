@@ -8,5 +8,5 @@ test('creates an intern', () => {
     expect(intern.id).toEqual(expect.any(Number));
     expect(intern.email).toEqual(expect.any(String))
     expect(intern.school).toEqual(expect.any(String))
-    expect(intern.role).toBe('Intern');
+    expect(intern.getRole()).toBe('Intern');
 });
