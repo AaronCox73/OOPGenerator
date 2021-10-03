@@ -33,7 +33,7 @@ Once program is running user can add in as many workers as they want and then wh
  
   ## Contributing
 
-  Please DO contribute to this application
+  Please DO NOT contribute to this application
  
   ## Tests
   
