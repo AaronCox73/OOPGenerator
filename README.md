@@ -26,10 +26,10 @@ Once program is running user can add in as many workers as they want and then wh
   
   ## License
   
-   No license 
+   No licensing 
   
   
-    The Apache License 2.0 makes sure that the user does not have to worry about infringing any patents by using the software. The user is granted a license to any patent that covers the software. This license is terminated if the user sues anyone over patent infringement related to this software.
+   
  
   ## Contributing
 
